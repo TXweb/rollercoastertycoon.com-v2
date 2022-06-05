@@ -1,0 +1,62 @@
+	<html>
+	<body bgcolor="#990000" text="#FFFFFF" link="#FFCC33" vlink="#FFCC33" alink="#FFCC33"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b></b><table bgcolor=black><td><table cellpadding=3><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b> El Vortexo</td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <b>Submited by:</b> <a href='user.php?name=Coasterdude18'>Coasterdude18</a><br><b>Game Type:</b> RollerCoaster Tycoon with Loopy Landscapes and Corkscrew Follies<br><b>Ride Type:</b> Steel Twister Roller Coaster<br><b>Vehicle Type:</b> Steel Twister Roller Coaster Train<br><b>Max Speed:</b> 56mph<br><b>Average Speed:</b> 20mph<br><b>Possitive G's:</b> 4.2<br><b>Negative G's:</b>-1.9<br><b>Lateral G's:</b> 2.6<br><b>Ride Length:</b> 3452feet<br><b>Inversions:</b> 11<br><b>Drops:</b> 11<br><b>Highest Drop:</b> 78feet<br><b>Operating Mode:</b> Continuous Circuit Mode<br><b>Excitement:</b> 7.1<br><b>Intensity:</b> 9.7<br><b>Nausea:</b> 5.1<br><b>User Rating:</b> 0 (0 Votes)<br><b>Submited:</b> 02.16.2003<br>	</td></tr><tr><td bgcolor="#990000"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">
+	<form name=post>
+	Username: <input type=text name=username>
+	Password: <input type=password name=password>
+	
+	<script language="JavaScript">
+		var UserName = getCookie("cusername");
+		var Password = getCookie("cpassword");
+	
+		if (document.cookie) {
+			if (UserName != null) {
+				document.post.username.value = getCookie("cusername");
+				if (getCookie("cpassword")) document.post.password.value = getCookie("cpassword");
+			}
+		}
+	
+		function getCookie(name) {
+			if (name == "offset" && offset) {
+				return offset
+			}
+			if (name == "lasttime" && lasttime) {
+				return lasttime
+			}
+			var dc = document.cookie;
+			var prefix = name + "=";
+			var begin = dc.indexOf("; " + prefix);
+	
+			if (begin == -1) {
+				begin = dc.indexOf(prefix);
+				if (begin != 0) return null;
+			} else
+				begin += 2;
+				var end = document.cookie.indexOf(";", begin);
+			if (end == -1)
+			end = dc.length;
+			return unescape(fixCookie(dc.substring(begin + prefix.length, end)));
+		}
+		
+		function fixCookie(temp) {
+			while (temp.indexOf("+")>-1) {
+				pos= temp.indexOf("+");
+				temp = "" + (temp.substring(0, pos) + " " +
+				temp.substring((pos + 1), temp.length));
+			}
+			return temp;
+		}
+	</script>
+	
+	</td></tr><tr><td bgcolor="#990000"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">	<br>Your Vote:
+	
+	<input type=hidden name=id value=9009>
+		<select name=vote>
+			<option></option>
+			<option value=1>1 - Worst</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option value=5>5 - Best</option>
+		</select>
+	<br><input type=submit value=Vote name=action>
+	</td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <input type=submit name=action value=Download><br>Download to C:\Program Files\Hasbro Interactive\RollerCoaster Tycoon\Tracks</td></form></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href="javascript:history.back()">Back to rides</a></td></tr></table></td></table>

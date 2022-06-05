@@ -1,0 +1,5 @@
+		<form method=post>
+		Admin Name: <input type=text name=adminname><br>
+		Admin Password: <input type=password name=adminpassword><br>
+		<input type=submit value=Submit>
+		</form>

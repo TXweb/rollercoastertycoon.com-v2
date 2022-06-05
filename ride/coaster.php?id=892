@@ -1,0 +1,14 @@
+	<html>
+	<body bgcolor="#990000" text="#FFFFFF" link="#FFCC33" vlink="#FFCC33" alink="#FFCC33"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><table bgcolor=black><td><table cellpadding=3><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b> </td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <b>Submited by:</b> <a href='user.php?name='></a><br><b>Game Type:</b> <br><b>Ride Type:</b> <br><b>Vehicle Type:</b> <br><b>Max Speed:</b> mph<br><b>Average Speed:</b> mph<br><b>Possitive G's:</b> <br><b>Negative G's:</b><br><b>Lateral G's:</b> <br><b>Ride Length:</b> feet<br><b>Inversions:</b> <br><b>Drops:</b> <br><b>Highest Drop:</b> feet<br><b>Operating Mode:</b> <br><b>Excitement:</b> <br><b>Intensity:</b> <br><b>Nausea:</b> <br><b>User Rating:</b>  (1 Votes)<br><b>Submited:</b> ..<br></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> 	<form><br>Your Vote:
+	<input type=hidden name=form_submit value=1>
+	<input type=hidden name=id value=892>
+		<select name=vote>
+			<option></option>
+			<option value=1>1 - Worst</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option value=5>5 - Best</option>
+		</select>
+	<br><input type=submit value=Vote>
+	</form></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=coaster_dl.php?id=892>Download Track</a></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=rides.php>Back to rides</a></td></tr></table></td></table>

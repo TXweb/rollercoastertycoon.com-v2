@@ -1,0 +1,504 @@
+<html>
+<head>
+<title>RollerCoaster Tycoon</title>
+<style>
+	a:hover{color:#FFFFFF;}
+</style>
+
+<!-- ----------------------------------------------------------------
+	Website by U.S. Infogrames web team:
+	Executive Producer: Jon "jelly" Nelson (webmaster@us.infogrames.com)
+	Senior Producer: Kyle "Pezman" Peschel
+	Senior Programmer: Gerald "monkey" Burns
+	Senior Designer: Micah "bigmic" Jackson
+----------------------------------------------------------------- -->
+<META NAME="KEYWORDS" CONTENT="RollerCoaster Tycoon, Hasbro Interactive, MicroProse, Infogrames, pezman, roller coaster, roller coasters, RCT, coaster, coasters, theme parks, amusement parks, thrill rides, rides, rollercoasters, rollercoaster, CD ROM games, simulation games, computer games, Hasbro, wooden rollercoaster, steel, corkscrew, reverse freefall, family entertainment">
+<META NAME="DESCRIPTION" CONTENT="Take a ride to fame and fortune with RollerCoaster Tycoon. The Official RollerCoaster Tycoon Web site allows players to upload their own rides and download rides of others for use in their own games.">
+
+<script language='JavaScript'>
+ <!--
+	// monkey's screenshot javascript function
+	function screen(nam, sys, tcode, bgcolor, text) {
+		//Default sys to xbox
+		if (!sys) {
+			sys = "consolepc";
+		}
+		if (!bgcolor) {
+		    bgcolor = "000000";
+		}
+		if (!text) {
+		    text = "FFFFFF";
+		}
+		window.open("http://atari-media.com/screen640.php?nam=" + nam + "&sys=" + sys + "&tcode=" + tcode + "&bgcolor=" + bgcolor + "&text=" + text,"screens","width=640,height=540,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=20,left=20");
+	}	
+	
+	function OpenSubscribe(loc) {
+	 window.open(loc,'nsub','width=500,height=500,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100');
+	}
+
+	function pop(loc) {
+	 window.open("pop.php?" + loc,'_blank','width=400,height=380,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,top=20,left=20');
+	}
+ // end hiding contents -->
+</script>
+
+</head>
+<body bgcolor="#335422" text="#FFFFFF" link="#FFFF00" vlink="#FFFF00" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/bg.gif" rightmargin="0" bottommargin="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td bgcolor="#0099FF"><img src="/images/spacer.gif" height="15" width="1"></td>
+	</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/top_bg.gif">
+	<tr>
+		<td background="/images/header_0_bg.gif"><a href="/index.php"><img src="/images/header_1_left.gif" width="183" height="100" border="0"></a><img src="/images/header_2.jpg" width="447" height="100" usemap="#Map" border="0"><img src="/images/header_3_right.gif" width="130" height="100" usemap="#Map2" border="0"></td>
+	</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="20" rowspan="2" valign="top" background="/images/pole_bg.gif"><img src="/images/pole_bg.gif" width="20" height="64"></td>
+    <td width="131" rowspan="2" valign="top"> <table width="131" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td bgcolor="#5C892F" width="124" align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/nav_left_1_info.gif" width="124" height="99" border="0"><br>
+            </font></b> 
+            <!-- 5 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td> <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/index.php?main">Latest News</a></font></b></td>
+              </tr>
+			  <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/index.php?info">Game 
+                  Info</a></font></b></td>
+              </tr>
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/index.php?hints">Hints 
+                  and Tips</a></font></b></td>
+              </tr>
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/index.php?screens">Screenshots</a></font></b></td>
+              </tr>
+            </table>
+            <!-- /5 -->
+            <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+            <a href="javascript:;" onclick='window.open("/ride","ride","width=693,height=500,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'><img src="/images/nav_left_2_ride_e.gif" width="124" height="117" border="0"><br>
+            </a></font></b> 
+            <!-- 6 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="javascript:;" onclick='window.open("/ride","ride","width=693,height=500,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'><img src="/images/small_b.gif" width="20" height="15" border="0"></a></font></b></td>
+                <td><b><a href="javascript:;" onclick='window.open("/ride","ride","width=693,height=500,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Player 
+                  Rides</font></a></b></td>
+              </tr>
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="javascript:;" onclick='window.open("/ride","ride","width=693,height=500,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'><img src="/images/small_b.gif" width="20" height="15" border="0"></a></font></b></td>
+                <td><b><a href="/index.php?ride_c"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Chris 
+                  Sawyer Rides</font></a></b></td>
+              </tr>
+            </table>
+            <!-- /6 -->
+            <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            </b><br> <a href="/index.php?packs"><img src="/images/nav_left_3_expansions.gif" width="124" height="86" border="0"></a><br> 
+            <!-- 7 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
+                <td><b><a href="/index.php?packs"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT
+                  Deluxe</font></a></b></td>
+              </tr><tr valign="top"> 
+                <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
+                <td><b><a href="/index.php?packs#ww"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT2
+                  Wacky Worlds</font></a></b></td>
+              </tr>
+			  <tr valign="top"> 
+                <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
+                <td><b><a href="/index.php?packs#rct2"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT 2</font></a></b></td>
+              </tr>
+              <tr valign="top"> 
+                <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
+                <td><b><a href="/index.php?packs#xbox"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT Xbox™</font></a></b></td>
+              </tr>
+            </table>
+            <!-- /7 -->
+            <br> <img src="/images/nav_left_4_bottom.gif" width="124" height="160"><br> 
+          </td>
+          <td background="/images/vert_bg.gif" width="7"><img src="/images/vert_bg.gif" width="7" height="73"></td>
+        </tr>
+      </table>
+      <!-- /4 -->
+      <img src="/images/nav_left_5_underbar.gif" width="131" height="7"><br> <a href="http://www.chrissawyer.com" target="_blank"><img src="/images/nav_left_6_chris_s.gif" width="131" height="32" border="0"></a><br> 
+      <br> <br></td>
+    <td valign="top"> <table width="100%" border="0" cellspacing="5" cellpadding="5">
+        <tr> 
+          <td> 
+             
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="images/head_hints.gif" width="183" height="28"></font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img src="images/small_b.gif" width="20" height="15"> 
+    <a href="#prima">Prima's Hints and Tips</a><br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="#jumping">Chris 
+    Sawyers Hints And Tips</a> (jumping fountains)</font></p>
+</blockquote>
+<p>&nbsp;</p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="http://www.primagames.com/strategy/book/5939/" target="_blank"><img src="images/rtc_hintbook.gif" width="139" height="150" border="0"><img src="images/clickhints.gif" width="355" height="100" border="0"></a><a href="http://www.primagames.com/strategy/guide/194/" target="_blank"><img src="images/primalogo.gif" width="96" height="129" border="0"></a></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a name="prima"></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="+1" color="#FFcc33">Prima's 
+  Sponsored Hints and Tips:</font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Please 
+    select from any of the following chapters from Prima's Official RollerCoaster 
+    Tycoon<sup>&reg;</sup> Strategy Guide:<br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="#rides">The 
+    Rides</a><br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="#construction">Ride 
+    Construction for Beginners</a><br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="#coasters">Coasters!</a><br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="#shops">Shops, 
+    Stalls and Bathrooms</a><br>
+    <img src="images/small_b.gif" width="20" height="15"> <a href="http://www.primagames.com/strategy/guide/194" target="_blank">Prima's 
+    RollerCoaster Tycoon Fast Track Guide</a></font> </p>
+</blockquote>
+<p></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a name=rides></a><img src="images/head_the_rides.gif" width="152" height="43"></b></font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Rides 
+    make up the bread and butter of your park. Without rides, all you've got is 
+    a chunk of land with some paths and food stalls. But don't forget that rides 
+    in the RollerCoaster Tycoon<sup>&reg;</sup> game do more than amuse park patrons. These 
+    machines can make you money, and like any machines, they need tuning and adjusting 
+    to keep them running smoothly.</font></p>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">With 
+    so many fun rides to choose from in RollerCoaster Tycoon<sup>&reg;</sup>, 
+    it can be sometimes be difficult to decide which rides to build, when to build 
+    them and where to put them. To help you pick the right ride at the right time, 
+    we have teamed up with Prima Games to provide you with an overview of the 
+    different ride types in RollerCoaster Tycoon<sup>&reg;</sup>! This overview provides 
+    cost information, ride characteristics and useful hints for Gentle Rides, 
+    Thrill Rides, Water Rides and of course&#133;...Roller Coasters! Please download 
+    the following 3 PDF files:</font></p>
+  <blockquote> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="downloads/pt1.pdf"><img src="images/dl_therides_1.gif" width="252" height="17" border="0"></a><br>
+      <br>
+      <a href="downloads/pt2.pdf"><img src="images/dl_therides_2.gif" width="255" height="17" border="0"></a><br>
+      <br>
+      <a href="downloads/pt3.pdf"><img src="images/dl_therides_3.gif" width="254" height="17" border="0"></a></font></p>
+  </blockquote>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    enjoy these hints and tips, you should install the latest version of <a href="http://www.adobe.com/support/downloads/main.html" target="_blank">Adobe 
+    Acrobat Reader</a> to view PDF files. If you don't have it already, download 
+    the Adobe Acrobat Reader software for free.</font></p>
+  <p>&nbsp;</p>
+</blockquote>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a name=construction></a><img src="images/head_rcfb.gif" width="245" height="36"></b></font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">RollerCoaster 
+    Tycoon<sup>&reg;</sup>, Corkscrew Follies&#153; and Loopy Landscapes&#153; 
+    give you an amazing number of roller coaster styles to design and build, but 
+    before you get to all-out roller coaster design, hone those ride-building 
+    skills on some simpler attractions. By building rides like the Cycle Railway, 
+    Go-Kart tracks and even Hedge Mazes, you'll get a feel for both construction 
+    and how your guests will respond.</font></p>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    help you hone those ride-building skills, we have teamed up with Prima Games 
+    to provide ride construction tips for beginners. These tips will help you 
+    easily master the art of building Gentle Rides, Thrill Rides and Water Rides. 
+    Once you've mastered these you can tackle the mighty Roller Coasters (see 
+    &quot;Coasters!&quot; below). Please download the following PDF file.</font></p>
+  <blockquote> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="downloads/construction.pdf"><img src="images/dl_rcfb.gif" width="394" height="17" border="0"></a></font></p>
+  </blockquote>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    enjoy these hints and tips, you should install the latest version of <a href="http://www.adobe.com/support/downloads/main.html" target="_blank">Adobe 
+    Acrobat Reader</a> to view PDF files. If you don't have it already, download 
+    the Adobe Acrobat Reader software for free.</font></p>
+  <p>&nbsp;</p>
+</blockquote>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a name=coasters></a><img src="images/head_coasters.gif" width="170" height="34"></b></font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Whoa 
+    Nellie! Its time to talk about building roller coasters! RollerCoaster Tycoon<sup>&reg;</sup>; 
+    makes building the ultimate coaster easy and fun, but there are still some 
+    useful tips to help you create the biggest, baddest ride around. </font></p>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">We 
+    have teamed up with Prima Games to give you advice and guidance on how to 
+    construct roller coasters and we'll look at what makes a good ride and what 
+    makes a bad ride. What we won't do is show you every special twist and turn 
+    you can put in your ride or tell you how to build a coaster step by step. 
+    You have countless selections for different rides and turns and special features 
+    in RollerCoaster Tycoon<sup>&reg;</sup>. That said, we will show you a few tricks, special 
+    curves, and inversions you can try with your coasters. Then the rest is up 
+    to you! Please download the following PDF file:</font></p>
+  <blockquote> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="downloads/coasters.pdf"><img src="images/dl_coasters.gif" width="188" height="17" border="0"></a></font></p>
+  </blockquote>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    enjoy these hints and tips, you should install the latest version of <a href="http://www.adobe.com/support/downloads/main.html" target="_blank">Adobe 
+    Acrobat Reader</a> to view PDF files. If you don't have it already, download 
+    the Adobe Acrobat Reader software for free.</font></p>
+  <p>&nbsp;</p>
+</blockquote>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><a name=shops></a><img src="images/head_shops.gif" width="427" height="31"></b></font></p>
+<blockquote> 
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
+    Even in the super-duper special park that you have labored 37 hours to perfect, 
+    rides can't do everything. By now, your guests have probably figured out that 
+    shocking truth. RollerCoaster Tycoon<sup>&reg;</sup> provides you with a wide variety 
+    of shops and stalls for your guests' eating and buying pleasure. As Park Manager, 
+    you must figure out the best places to put them. No sweat - unless you get 
+    it wrong, of course. If you do, your guests will tell you.</font></p>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    help you keep your park guests happy when they're not on the rides, we have 
+    teamed up with Prima Games to provide you with an overview of the different 
+    shops, stalls and bathrooms in RollerCoaster Tycoon<sup>&reg;</sup>! This overview will 
+    provide you with useful information on where you should build your shops and 
+    stalls and how you should price your wares! Please download the following 
+    PDF file:</font></p>
+  <blockquote> 
+    <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a href="downloads/shops.pdf"><img src="images/dl_shops.gif" width="370" height="19" border="0"></a></font></p>
+  </blockquote>
+  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">To 
+    enjoy these hints and tips you should install the latest version of <a href="http://www.adobe.com/support/downloads/main.html" target="_blank">Adobe 
+    Acrobat Reader</a> to view PDF files. If you don't have it already, download 
+    the Adobe Acrobat Reader software for free.</font></p>
+  <p>&nbsp;</p>
+</blockquote>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a name="jumping"></a> 
+  </font> </p>
+<table border="0">
+  <tr> 
+    <td width="100%"> 
+      <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="+1" color="#FFcc33">RollerCoaster 
+        Tycoon's Amazing Jumping Fountains!</font> 
+    </td>
+  </tr>
+</table>
+<table border="1" width="100%" style="border-collapse: collapse">
+  <tr> 
+    <td width="100%"> 
+      <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i><img border="2" src="images/jf9.gif" width="362" height="224" align="left"></i>If 
+        you have played RollerCoaster Tycoon, you will probably have built some 
+        jumping fountains at some point, and perhaps even watched them bouncing 
+        around for a few seconds- but have you noticed the various patterns and 
+        sequences they follow?&nbsp; They don't just squirt water randomly, they 
+        actually follow quite a complex series of sequences. If you haven't noticed, 
+        then try building a large area of jumping fountains and watch them yourself 
+        - To do this, just start playing the &quot;Evergreen Gardens&quot; scenario, 
+        build a large paved footpath area, and cover it with jumping fountains, 
+        like the picture to the right.</font> 
+      <p align="left"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Then, 
+        just sit back and watch for a few minutes, and see if you can pick out 
+        the following sequences!<br>
+        (<b>Note:</b> Each sequence lasts for about a minute)</font> 
+      <p align="center">&nbsp; 
+    </td>
+  </tr>
+</table>
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber9">
+  <tr> 
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber11">
+        <tr> 
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i> 
+            <img border="2" src="images/jf1.gif" width="156" height="92" align="left"><b>Sequence 
+            1: Continuous Chasers</b><br>
+            A single water jet appears to 'chase' in a straight line, changing 
+            direction only when it reaches the edge of the fountain area, and 
+            then carries on in a different direction.</i></font></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber12">
+        <tr> 
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i><b>Sequence 
+            5: Splitting Chasers</b><br>
+            Single 'chaser' jets travel in a straight line until they reach the 
+            edge of the paved area, then split into a pair of chasers to travel 
+            around the edge of the area.</i></font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber13">
+        <tr> 
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i><img border="2" src="images/jf3.gif" width="154" height="106" align="left"><b>Sequence 
+            2: Bouncing Pairs</b><br>
+            Pairs of water jets bounce back and forth along the sides of one square.</i></font></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber14">
+        <tr> 
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i><b>Sequence 
+            6: Dopey Jumpers</b><br>
+            A single water jet jumps randomly from one jet to another.</i></font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber15">
+        <tr> 
+          <td width="100%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img border="2" src="images/jf5.gif" width="216" height="162" align="left"><i><b>Sequence 
+            3: Sprouting Blooms</b><br>
+            A single water jet starts a 'blooming' sequence, sprouting jets in 
+            all four directions, which each then sprout four more jets when they 
+            land.</i></font></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber16">
+        <tr> 
+          <td width="100%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><i><b>Sequence 
+            7: Fast Random Chasers</b><br>
+            Same as sequence 6, but the jets run faster, creating a continuous 
+            looking effect.</i></font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber10">
+        <tr> 
+          <td width="100%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img border="2" src="images/jf6.gif" width="106" height="126" align="left"><i><b>Sequence 
+            4: Racing Pairs</b><br>
+            A pair of water jets race each other continuously in a straight line 
+            across the paved area.</i></font></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse"  width="100%" id="AutoNumber17">
+        <tr> 
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><img border="2" src="images/jf7.gif" width="102" height="100" align="left"><i><b>Sequence 
+            8: Cyclic Squares</b><br>
+            The four water jets at the corners of a square all start at once, 
+            squirting in a clockwise direction to create a square pattern.</i></font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
+  </font> </p>
+          </td>
+        </tr>
+      </table> </td>
+    <td width="131" rowspan="2" valign="top"> <table width="131" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="7" background="/images/vert_bg.gif"><img src="/images/vert_bg.gif" width="7" height="73"></td>
+          <td bgcolor="#5C892F" valign="top" align="left"><img src="/images/nav_right_1_downloads.gif" width="130" height="103" border="0"><br> 
+            <!-- 10 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?scenarios"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Scenarios</font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?patches"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Patches/Fixes</font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?demo"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Game 
+                  Demos</font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?manuals"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Game 
+                  Manuals</font></a></b></td>
+              </tr>
+            </table>
+            <!-- /10 -->
+            <br> <a href="/index.php?community"><img src="/images/nav_right_2_community.gif" width="130" height="128" border="0"></a><br> 
+            <!-- 11 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="http://www.ina-community.com/forums/forumdisplay.php?forumid=261" target="_blank"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Forums</font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?community"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fan 
+                  Sites</font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?links"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fun 
+                  Links </font></a></b></td>
+              </tr>
+              <tr> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="http://www.ina-support.com" target="_blank"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Support</font></a></b></td>
+              </tr>
+              <tr> 
+                <td></td>
+                <td><img src="/images/spacer.gif" width="100" height="1"></td>
+              </tr>
+            </table>
+            <!-- /11 -->
+            <br> <a href="/index.php?products"><img src="/images/nav_right_3_rct_products.gif" width="130" height="100" border="0"></a><br> 
+            <!-- 12 -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?products#pinball"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pinball 
+                  Machine</font></a></b></td>
+              </tr>
+              <tr valign="top"> 
+                <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
+                <td><b><a href="/index.php?products#books"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Books</font></a></b></td>
+              </tr>
+            </table>
+            <!-- /12 -->
+            <br> <img src="/images/nav_right_4_bottom.gif" width="130" height="170"></td>
+        </tr>
+      </table>
+      <!-- /9 -->
+      <img src="/images/nav_right_5_underbar.gif" width="137" height="7"></td>
+    <td width="20" rowspan="2" valign="top" background="/images/pole_bg_right.gif"><img src="/images/pole_bg_right.gif" width="20" height="64"></td>
+  </tr>
+  <tr>
+    <td valign="bottom" align="center"><table border="0" cellspacing="0" cellpadding="5">
+        <tr> 
+          <td><a href="http://esrb.org" target="_blank"><img src="http://www.us.infogrames.com/media/games/rating_e.gif" width="38" height="53" border="0" alt="Mild Violence"></a></td>
+          <td align="center"><a href="http://us.atari.com" target="_blank"><img src="/images/logo_atari.gif" width="105" height="40" border="0"></a></td>
+          <td align="right"><img src="http://www.us.infogrames.com/media/games/pc_cdrom_logo.gif" width="38" height="41"></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Copyright 
+            &copy; 2004 Atari, Inc. All Rights 
+            Reserved.<br>
+            &copy;1999, Chris Sawyer. All Rights Reserved.</font></td>
+        </tr>
+      </table>
+      <!-- /13 -->
+      <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+      <a href="javascript:;" onClick='window.open("http://atari.com/us/contact_us.php","contact","width=400,height=250,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'>Questions 
+      and Comments</a><br>
+      <a href="http://atari.com/us/privacy_policy.php" target="_blank">Privacy 
+      Policy</a> | <a href="http://atari.com/us/terms_of_service.php" target="_blank">Terms 
+      of Service</a></font><br> <a href="http://atari.com/us/privacy_policy.php" target="_blank"><img src="http://us.infogrames.com/privacy.jpg" width="116" height="43" border="0"></a></td>
+  </tr>
+</table>
+
+<map name="Map">
+	<area shape="rect" coords="325,12,454,37"	 href="http://www.us.infogrames.com/store/?game=ROLL&referer=wpage&platform=PCXX" target="_blank">
+	<area shape="rect" coords="323,38,450,59" href='javascript:OpenSubscribe("http://us.infogrames.com/games/subscribe.php?action=subscribe&title=ROLL&sku=PCXX&genre=STRY&bgcolor=335422")'>
+	<area shape="rect" coords="319,62,451,85" href="/?demo">
+</map>
+<map name="Map2">
+	<area shape="rect" coords="-2,38,65,59" href='javascript:OpenSubscribe("http://us.infogrames.com/games/subscribe.php?action=subscribe&title=ROLL&sku=PCXX&genre=STRY&bgcolor=335422")'>
+	<area shape="rect" coords="-1,62,89,84" href="/?demo">
+</map>
+</body>
+</html>

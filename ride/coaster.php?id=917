@@ -1,0 +1,14 @@
+	<html>
+	<body bgcolor="#990000" text="#FFFFFF" link="#FFCC33" vlink="#FFCC33" alink="#FFCC33"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><table bgcolor=black><td><table cellpadding=3><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b> Sg1</td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <b>Submited by:</b> <a href='user.php?name=Zip-Freak'>Zip-Freak</a><br><b>Game Type:</b> RollerCoaster Tycoon with Loopy Landscapes and Corkscrew Follies<br><b>Ride Type:</b> Vertical Roller Coaster<br><b>Vehicle Type:</b> Vertical Roller Coaster Cars<br><b>Max Speed:</b> 61mph<br><b>Average Speed:</b> 14mph<br><b>Possitive G's:</b> 4.8<br><b>Negative G's:</b>-1.9<br><b>Lateral G's:</b> 2.2<br><b>Ride Length:</b> 2600feet<br><b>Inversions:</b> 1<br><b>Drops:</b> 5<br><b>Highest Drop:</b> 99feet<br><b>Operating Mode:</b> Continuous Circuit Mode<br><b>Excitement:</b> 7.2<br><b>Intensity:</b> 7.5<br><b>Nausea:</b> 3.3<br><b>User Rating:</b> 3 (1 Votes)<br><b>Submited:</b> 10.13.2002<br></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> 	<form><br>Your Vote:
+	<input type=hidden name=form_submit value=1>
+	<input type=hidden name=id value=917>
+		<select name=vote>
+			<option></option>
+			<option value=1>1 - Worst</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option value=5>5 - Best</option>
+		</select>
+	<br><input type=submit value=Vote>
+	</form></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=coaster_dl.php?id=917>Download Track</a></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=rides.php>Back to rides</a></td></tr></table></td></table>

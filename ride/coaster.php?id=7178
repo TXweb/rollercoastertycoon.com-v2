@@ -1,0 +1,6 @@
+<br>
+<b>Warning</b>:  Can't connect to MySQL server on '1.81.27.86' (113) in <b>/var/www/html/rollercoastertycoon/ride/db_config.php</b> on line <b>20</b><br>
+<br>
+<b>Warning</b>:  MySQL Connection Failed: Can't connect to MySQL server on '1.81.27.86' (113)
+ in <b>/var/www/html/rollercoastertycoon/ride/db_config.php</b> on line <b>20</b><br>
+<font color=red>Can't connect to MySQL server on '1.81.27.86' (113)</font>

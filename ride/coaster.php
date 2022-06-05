@@ -1,0 +1,1 @@
+<font color=blue>SELECT * FROM coasters WHERE id=</font><br><font color=red>You have an error in your SQL syntax near '' at line 1</font>

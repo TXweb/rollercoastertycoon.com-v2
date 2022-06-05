@@ -1,0 +1,14 @@
+	<html>
+	<body bgcolor="#990000" text="#FFFFFF" link="#FFCC33" vlink="#FFCC33" alink="#FFCC33"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><table bgcolor=black><td><table cellpadding=3><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b> Storm Squad</td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <b>Submited by:</b> <a href='user.php?name=stormt23'>stormt23</a><br><b>Game Type:</b> RollerCoaster Tycoon with Loopy Landscapes and Corkscrew Follies<br><b>Ride Type:</b> Steel Roller Coaster<br><b>Vehicle Type:</b> Steel Roller Coaster Train<br><b>Max Speed:</b> 52mph<br><b>Average Speed:</b> 20mph<br><b>Possitive G's:</b> 4.8<br><b>Negative G's:</b>-1.6<br><b>Lateral G's:</b> 2.2<br><b>Ride Length:</b> 5203feet<br><b>Inversions:</b> 3<br><b>Drops:</b> 13<br><b>Highest Drop:</b> 73feet<br><b>Operating Mode:</b> Continuous Circuit Mode<br><b>Excitement:</b> 8.7<br><b>Intensity:</b> 8.3<br><b>Nausea:</b> 4.4<br><b>User Rating:</b> 3 (1 Votes)<br><b>Submited:</b> 10.10.2002<br></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> 	<form><br>Your Vote:
+	<input type=hidden name=form_submit value=1>
+	<input type=hidden name=id value=16>
+		<select name=vote>
+			<option></option>
+			<option value=1>1 - Worst</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option value=5>5 - Best</option>
+		</select>
+	<br><input type=submit value=Vote>
+	</form></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=coaster_dl.php?id=16>Download Track</a></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=rides.php>Back to rides</a></td></tr></table></td></table>

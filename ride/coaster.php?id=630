@@ -1,0 +1,14 @@
+	<html>
+	<body bgcolor="#990000" text="#FFFFFF" link="#FFCC33" vlink="#FFCC33" alink="#FFCC33"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><table bgcolor=black><td><table cellpadding=3><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b> Maxxed Out</td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <b>Submited by:</b> <a href='user.php?name=Newbiecity'>Newbiecity</a><br><b>Game Type:</b> RollerCoaster Tycoon with Loopy Landscapes and Corkscrew Follies<br><b>Ride Type:</b> Steel Corkscrew Roller Coaster<br><b>Vehicle Type:</b> Corkscrew Roller Coaster Train<br><b>Max Speed:</b> 45mph<br><b>Average Speed:</b> 16mph<br><b>Possitive G's:</b> 3.8<br><b>Negative G's:</b>-0.6<br><b>Lateral G's:</b> 2.2<br><b>Ride Length:</b> 2282feet<br><b>Inversions:</b> 4<br><b>Drops:</b> 7<br><b>Highest Drop:</b> 43feet<br><b>Operating Mode:</b> Continuous Circuit Mode<br><b>Excitement:</b> 6.3<br><b>Intensity:</b> 6.6<br><b>Nausea:</b> 3.1<br><b>User Rating:</b> 0 (0 Votes)<br><b>Submited:</b> 10.12.2002<br></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> 	<form><br>Your Vote:
+	<input type=hidden name=form_submit value=1>
+	<input type=hidden name=id value=630>
+		<select name=vote>
+			<option></option>
+			<option value=1>1 - Worst</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option value=5>5 - Best</option>
+		</select>
+	<br><input type=submit value=Vote>
+	</form></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=coaster_dl.php?id=630>Download Track</a></td></tr><tr><td bgcolor=#990000><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> <a href=rides.php>Back to rides</a></td></tr></table></td></table>
