@@ -120,7 +120,7 @@
               </tr>
               <tr valign="top"> 
                 <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
-                <td><b><a href="/index.php?packs#xbox"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT Xbox™</font></a></b></td>
+                <td><b><a href="/index.php?packs#xbox"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT Xboxâ„¢</font></a></b></td>
               </tr>
             </table>
             <!-- /7 -->
@@ -156,7 +156,7 @@
           <a href="javascript:pop('ride_beastly');">Click Here to see the other 
           tracks</a><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/Beastly.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Beastly/Beastly.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></p>
       </blockquote>
@@ -175,7 +175,7 @@
           <a href="javascript:pop('ride_catmice');">Click Here to see the other 
           tracks</a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/catmice.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Catmice/catmice.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></b></p>
       </blockquote>
@@ -194,7 +194,7 @@
           <br>
           <a href="javascript:pop('ride_gem');">Click Here to see the other tracks</a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/Gem.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Gem/Gem.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></b></p>
       </blockquote>
@@ -214,7 +214,7 @@
           <a href="javascript:pop('ride_original');">Click Here to see the other 
           tracks</a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/Original.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Original/Original.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></b></p>
       </blockquote>
@@ -235,7 +235,7 @@
           <a href="javascript:pop('ride_phobia');">Click Here to see the other 
           tracks</a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/phobias.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Phobias/phobias.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></b></p>
       </blockquote>
@@ -256,7 +256,7 @@
           <a href="javascript:pop('ride_woodies');">Click Here to see the other 
           tracks</a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><br>
           <br>
-          <a href="ftp://ftp.infogrames.net/patches/rctycoon/Woodies.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
+          <a href="/downloads/Woodies/Woodies.zip"><img src="images/dl_track_designs.gif" width="219" height="14" border="0"></a><br>
           <br>
           <a href="javascript:pop('dl_help');"><img src="images/dl_help.gif" width="137" height="14" border="0"></a></font></b></p>
       </blockquote>
