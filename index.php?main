@@ -120,7 +120,7 @@
               </tr>
               <tr valign="top"> 
                 <td><a href="/index.php?packs"><img src="/images/small_b.gif" width="20" height="15" border="0"></a></td>
-                <td><b><a href="/index.php?packs#xbox"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT Xboxô</font></a></b></td>
+                <td><b><a href="/index.php?packs#xbox"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">RCT Xbox‚Ñ¢</font></a></b></td>
               </tr>
             </table>
             <!-- /7 -->
@@ -138,18 +138,18 @@
             
 <div align="left"><img src="images/head_news.gif" width="195" height="33"></div>
 <div align="left"> 
- <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Rollercoaster Tycoon 3<sup>Æ</sup> is voted one of the six games to watch this year by CNN!
+ <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Rollercoaster Tycoon 3<sup>¬Æ</sup> is voted one of the six games to watch this year by CNN!
 </b> <br><br>
 <a href="http://money.cnn.com/2004/05/14/commentary/game_over/e3_sixtowatch/index.htm" target="_blank">Read the article here.</a> <br><br>
   </p></div>
 
 <div align="left"> 
- <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Rollercoaster Tycoon 3<sup>Æ</sup> is being shown at this yearís Electronic Entertainment Expo (E3) in the Microsoft Games for Windows Booth and the ATI booth.  
+ <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Rollercoaster Tycoon 3<sup>¬Æ</sup> is being shown at this year‚Äôs Electronic Entertainment Expo (E3) in the Microsoft Games for Windows Booth and the ATI booth.  
 </b> <br><br>
 Catch the exclusive E3 gameplay trailer <a href="javascript:;" onclick='window.open("http://us.atari.com/freebies/movies/movie.php?tcode=RCT3&type=consolepc","viddy","width=338,height=330,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100");'>here</a>, including the dramatic park at nighttime. <a href="javascript:;" onclick='window.open("http://us.atari.com/freebies/movies/movie.php?tcode=RCT3&type=consolepc","viddy","width=338,height=330,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100");'>Watch Video</a>.  <br><br>
   </p></div>
 <div align="left"> 
- <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>New Question & Answer session with Jonny Watts, Producer of RollerCoaster Tycoon 3<sup>Æ</sup> at Frontier Developments.
+ <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>New Question & Answer session with Jonny Watts, Producer of RollerCoaster Tycoon 3<sup>¬Æ</sup> at Frontier Developments.
 </b> <br><br>
           <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
 		<b><font color="#FFFF00">Q: How is Chris Sawyer involved in the development of RollerCoaster Tycoon 3 (RCT3)?</b></font><br>
@@ -169,20 +169,20 @@ Even though the individual components of RCT3 can be quite simple, the sheer com
 <b><font color="#FFFF00">Q: Will RCT3 have a sandbox mode?  How is this implemented?</font> </b><br>
 <b>A:</b> Yes (cue the sound of cheers from around the world..)!  Very simple - you can put anything you like into your park, with the one caveat that a small amount of content is unlock able throughout the game.  So straight off the bat you'll be able to use pretty much everything in your park, but to get a truly complete-ist buzz you have some serious Tycoon-ing to do!<br><br>
 <b><font color="#FFFF00">Q: How many rides are there going to be in RCT3?</font></b><br>
-<b>A:</b> Broadly speaking for this first release we set out to deliver around 75% of the 'content' (rides and scenery) that were in RCT2 ñ however, our enthusiasm has got the better of us and we'll have probably done a bit more than that by the time we're finished.<br><br>
-<b><font color="#FFFF00">Q: How is ìthemingî and ride customization handled in RCT3?</font></b> <br>
+<b>A:</b> Broadly speaking for this first release we set out to deliver around 75% of the 'content' (rides and scenery) that were in RCT2 ‚Äì however, our enthusiasm has got the better of us and we'll have probably done a bit more than that by the time we're finished.<br><br>
+<b><font color="#FFFF00">Q: How is ‚Äútheming‚Äù and ride customization handled in RCT3?</font></b> <br>
 <b>A:</b> The way we've been building the rides is to produce a "vanilla" version of a ride and then 'theme' it, so as a general rule there are multiple versions of each ride available, themed and not themed.  There is not a completely rigorous approach whereby each ride has an alternate version in every theme, but we've done the best we can given the time and people available.  Also we've tried to ensure that the themes we do are relatively rich compared to some in previous incarnations of the game, so as well as rides & attractions there are always also building sets, staff uniforms, foliage, benches, lamps and so on.  We have also tried to incorporate this into the gameplay in subtle ways, so that now, for example, a Peeps impression of a park is partly based on the coherency of the themeing.<br><br>
 		</p></font>        
 			</div>
 <div align="left"> 
- <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>RollerCoaster Tycoon 3<sup>Æ</sup> Video Trailer #1:
+ <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>RollerCoaster Tycoon 3<sup>¬Æ</sup> Video Trailer #1:
 </b> <br><br>
 Check out the amazing new visuals of RollerCoaster Tycoon 3.  The first official video trailer for RollerCoaster Tycoon 3 is now available for viewing and download - <a href="javascript:;" onclick='window.open("http://us.atari.com/freebies/movies/movie.php?tcode=RCT3&type=consolepc","viddy","width=338,height=330,menubar=no,resizable=no,scrollbars=yes,toolbar=no,top=100,left=100");'>click here</a> to view now (launch video pop up) .  This video is taken 100% from the in-game grahics engine and is not altered in any way.  Visit the official game page at <a href="http://www.us.atari.com/games/rollercoaster_tycoon_3_pc_strategy/" target="_blank">Atari.com</a> to get more information on the game.<br><br>
   </p></div>
 <div align="left"> 
- <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>RollerCoaster Tycoon 3<sup>Æ</sup> is coming!
+ <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>RollerCoaster Tycoon 3<sup>¬Æ</sup> is coming!
 </b> <br><br>
-Get your barf bag ready! The thrilling new sequel to the exciting <em>RollerCoaster Tycoon</em> franchise will make its way to store shelves this Holiday season. <strong>RollerCoaster Tycoon 3</strong> will take the series to new heights with brand new features including 3-D graphics, giving players complete control of views around the park, and a front seat to the action with a new <em>Coaster Camô</em> feature that allows players to ride the roller coasters. <a href="http://us.atari.com/press/?action=readmore&id=1466" target="_blank">Read more</a>.<br><br>
+Get your barf bag ready! The thrilling new sequel to the exciting <em>RollerCoaster Tycoon</em> franchise will make its way to store shelves this Holiday season. <strong>RollerCoaster Tycoon 3</strong> will take the series to new heights with brand new features including 3-D graphics, giving players complete control of views around the park, and a front seat to the action with a new <em>Coaster Cam‚Ñ¢</em> feature that allows players to ride the roller coasters. <a href="http://us.atari.com/press/?action=readmore&id=1466" target="_blank">Read more</a>.<br><br>
 <a href="javascript:screen('1b.jpg','all', 'RCT3','000000','FFCC00');"> Check out the screen shots here.</a>
   </p></div>
 <div align="center"> 
