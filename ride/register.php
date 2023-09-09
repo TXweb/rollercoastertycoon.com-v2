@@ -395,4 +395,4 @@ Asterisks (*) indicate required fields.
 </form>
 <form><input type="button" onClick="javascript:update_body();" value="Register"></form>
 <a href='http://us.infogrames.com/privacy_policy.asp' target='_blank'><br>
-<img src='http://us.infogrames.com/privacy.jpg' width='116' height='43' border='0'></a>
+<img src='/images/privacy.jpg' width='116' height='43' border='0'></a>

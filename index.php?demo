@@ -259,9 +259,9 @@
   <tr>
     <td valign="bottom" align="center"><table border="0" cellspacing="0" cellpadding="5">
         <tr> 
-          <td><a href="http://esrb.org" target="_blank"><img src="http://www.us.infogrames.com/media/games/rating_e.gif" width="38" height="53" border="0" alt="Mild Violence"></a></td>
+          <td><a href="http://esrb.org" target="_blank"><img src="/images/rating_e.gif" width="38" height="53" border="0" alt="Mild Violence"></a></td>
           <td align="center"><a href="http://us.atari.com" target="_blank"><img src="/images/logo_atari.gif" width="105" height="40" border="0"></a></td>
-          <td align="right"><img src="http://www.us.infogrames.com/media/games/pc_cdrom_logo.gif" width="38" height="41"></td>
+          <td align="right"><img src="/images/pc_cdrom_logo.gif" width="38" height="41"></td>
         </tr>
         <tr align="center"> 
           <td colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Copyright 
@@ -276,7 +276,7 @@
       and Comments</a><br>
       <a href="http://atari.com/us/privacy_policy.php" target="_blank">Privacy 
       Policy</a> | <a href="http://atari.com/us/terms_of_service.php" target="_blank">Terms 
-      of Service</a></font><br> <a href="http://atari.com/us/privacy_policy.php" target="_blank"><img src="http://us.infogrames.com/privacy.jpg" width="116" height="43" border="0"></a></td>
+      of Service</a></font><br> <a href="http://atari.com/us/privacy_policy.php" target="_blank"><img src="/images/privacy.jpg" width="116" height="43" border="0"></a></td>
   </tr>
 </table>
 
