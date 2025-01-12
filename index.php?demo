@@ -281,7 +281,7 @@
 </table>
 
 <map name="Map">
-	<area shape="rect" coords="325,12,454,37"	 href="http://www.us.infogrames.com/store/?game=ROLL&referer=wpage&platform=PCXX" target="_blank">
+	<area shape="rect" coords="325,12,454,37"	 href="https://www.gog.com/en/game/rollercoaster_tycoon_deluxe" target="_blank">
 	<area shape="rect" coords="323,38,450,59" href='javascript:OpenSubscribe("http://us.infogrames.com/games/subscribe.php?action=subscribe&title=ROLL&sku=PCXX&genre=STRY&bgcolor=335422")'>
 	<area shape="rect" coords="319,62,451,85" href="/?demo">
 </map>
