@@ -197,7 +197,7 @@ $filename = __DIR__ . "/fragments/index/{$fragment}.html";
               </tr>
               <tr> 
                 <td><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="/images/small_b.gif" width="20" height="15" border="0"></font></b></td>
-                <td><b><a href="http://www.ina-support.com" target="_blank"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Support</font></a></b></td>
+                <td><b><a href="https://reddit.com/r/rct" target="_blank"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Support</font></a></b></td>
               </tr>
               <tr> 
                 <td></td>
